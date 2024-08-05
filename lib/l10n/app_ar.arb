@@ -1,0 +1,12 @@
+{
+ "appTitle": "اسلامي",
+  "suraName": "اسم السوره",
+  "suraNumber": "رقم السوره",
+  "ahadeth":  "الاحاديث",
+  "language": "اللغه",
+  "thememode": "النمط",
+  "english": "انجليزي",
+  "arabic": "عربي",
+  "light": "نهاري",
+  "dark": "ليلي"
+}
